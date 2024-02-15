@@ -32,18 +32,18 @@ add solution calc functions operatoins and log
 
 # 2024-02-14
 add folder lab_01
-add solution for lab1 and Summary for lab_01
+add solution for lab1
 
 # 2024-02-14
 add folder lab_02
-add solution for lab2 lab02 Summary for lab_02 and tests
+add solution for lab2 lab02 and tests
 
 # 2024-02-14
 add folder lab_03
-add solution for lab3 main student studentList unittests unittests2 Summary for lab_03 and utils
+add solution for lab3 main student studentList unittests unittests2 and utils
 
 # 2024-02-14
 add folder lab_04
-add solution for lab04 Summary for lab_04 and unittests
+add solution for lab04 and unittests
 
 # TP-KB-222-Artem-Grokholskyi
