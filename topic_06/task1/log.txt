@@ -1,0 +1,40 @@
+
+
+	2024-02-14 22:42:38 
+Instance: 22.0 + 11.0 = 33.0 
+Operation: +, First num: 22.0, Second num: 11.0, Result or operation: 33.0
+
+	2024-02-14 22:43:03 
+Instance: 13.0 - 2.0 = 11.0 
+Operation: -, First num: 13.0, Second num: 2.0, Result or operation: 11.0
+
+	2024-02-14 22:43:19 
+Instance: 63.0 * 4.0 = 252.0 
+Operation: *, First num: 63.0, Second num: 4.0, Result or operation: 252.0
+
+	2024-02-14 22:43:30 
+Instance: 144.0 / 12.0 = 12.0 
+Operation: /, First num: 144.0, Second num: 12.0, Result or operation: 12.0
+
+	2024-02-14 22:50:43 
+Instance: 12.0 - 3.0 = 9.0 
+Operation: -, First num: 12.0, Second num: 3.0, Result or operation: 9.0
+
+	2024-02-14 22:50:56 
+Instance: 45.0 + 6.0 = 51.0 
+Operation: +, First num: 45.0, Second num: 6.0, Result or operation: 51.0
+
+	2024-02-14 22:51:06 
+Instance: 12.0 * 16.0 = 192.0 
+Operation: *, First num: 12.0, Second num: 16.0, Result or operation: 192.0
+
+	2024-02-14 22:51:13 
+Instance: 2.0 / 0.0 = None 
+Operation: /, First num: 2.0, Second num: 0.0, Result or operation: None
+
+	2024-02-14 22:51:23 
+Instance: 2.0 / 1.0 = 2.0 
+Operation: /, First num: 2.0, Second num: 1.0, Result or operation: 2.0
+
+	2024-02-14 22:51:33
+Quit from program.
