@@ -27,7 +27,7 @@ add solution for calc functions operatoins and log
 # 2024-02-14
 add folder topic_07
 add solution for task2 and task3
-add folder task1
+add folder task4
 add solution calc functions operatoins and log
 
 # 2024-02-14
